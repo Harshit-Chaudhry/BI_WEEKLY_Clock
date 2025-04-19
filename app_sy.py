@@ -45,7 +45,7 @@ st.markdown("""
 - **Digvijay**: <span style='color:#e0af68;'>None</span>
 """, unsafe_allow_html=True)
 
-deadline_date = datetime.date(2025, 4, 27)
+deadline_date = datetime.date(2025, 5, 3)
 deadline_time = datetime.time(23, 59)
 deadline = datetime.datetime.combine(deadline_date, deadline_time)
 countdown_placeholder = st.empty()
