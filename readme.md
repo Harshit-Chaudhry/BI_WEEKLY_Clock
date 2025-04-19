@@ -19,7 +19,7 @@ This Streamlit app displays a real-time countdown to a selected deadline, along 
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
-- [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) (for custom styling)
+- [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) (for custom styling Not so Important)
 
 ---
 
@@ -53,20 +53,6 @@ This Streamlit app displays a real-time countdown to a selected deadline, along 
 
 ---
 
-## 📌 How to Use
-
-- The app shows a countdown timer to a pre-set deadline (27th April 2025, 11:59 PM).
-- Track project or study progress by replacing `"None"` with your actual GitHub links.
-- Easily customize the list by editing the Markdown in `app.py`.
-
----
-
-## 📎 Example GitHub Entry Format
-
-```markdown
-- **Name**: [Project Title](https://github.com/username/repo-name)
-
----
 🧑‍🏫 Contributing
 Feel free to fork and add your own GitHub links, deadlines, or features!
 
