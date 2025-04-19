@@ -27,7 +27,7 @@ st.title("Deadline Countdown Clock")
 
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
-- **Harshit Chaudhary**: <span style='color:#e0af68;'>None</span>
+- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/6-D_Pose_Estimation.git </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'>None</span>
 - **Krishna Mehta**: <span style='color:#e0af68;'>None</span>
 - **Digvijay**: <span style='color:#e0af68;'>None</span>
