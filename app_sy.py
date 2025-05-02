@@ -31,7 +31,7 @@ st.markdown("""
 - **Ritesh Hooda**: <span style='color:#e0af68;'>None</span>
 - **Krishna Mehta**: <span style='color:#e0af68;'>None</span>
 - **Digvijay**: <span style='color:#e0af68;'>None</span>
-- **Archit Yadav**: <span style='color:#e0af68;'>None</span>
+- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Shekespeare_Word_Lvl_Generation.git </span>
 """, unsafe_allow_html=True)
 
 st.markdown("### 📚 GitHub Study Material You've Uploaded")
