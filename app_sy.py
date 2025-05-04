@@ -30,19 +30,19 @@ st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Insta_Report_Bot.git </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/basicfeedbackapp.git </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Second-Brain.git </span>
-- **Digvijay**: <span style='color:#e0af68;'>None</span>
+- **Digvijay**: <span style='color:#e0af68;'> Party OR Leave </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Shekespeare_Word_Lvl_Generation.git </span>
 """, unsafe_allow_html=True)
 
 st.markdown("### 📚 GitHub Study Material You've Uploaded")
 st.markdown("""
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/notes.git </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'>None</span>
-- **Krishna Mehta**: <span style='color:#e0af68;'>None</span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'>None</span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'> Face consequences </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> Face consequences </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://github.com/SahibTaj/AI-College-Notes.git </span>
 - **Soumalya Gosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/STUDY </span>
 - **Hardik**: <span style='color:#e0af68;'> https://github.com/Meowwxo/AI_STUDY_MATERIAL_4.git </span>
-- **Digvijay**: <span style='color:#e0af68;'>None</span>
+- **Digvijay**: <span style='color:#e0af68;'> Party or Leave </span>
 """, unsafe_allow_html=True)
 
 deadline_date = datetime.date(2025, 5, 4)
