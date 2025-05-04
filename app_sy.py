@@ -46,7 +46,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 deadline_date = datetime.date(2025, 5, 4)
-deadline_time = datetime.time(23, 59)
+deadline_time = datetime.time(23 - 5, 59 - 30)
 deadline = datetime.datetime.combine(deadline_date, deadline_time)
 countdown_placeholder = st.empty()
 
