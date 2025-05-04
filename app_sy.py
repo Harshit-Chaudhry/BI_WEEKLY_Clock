@@ -36,7 +36,7 @@ st.markdown("""
 
 st.markdown("### 📚 GitHub Study Material You've Uploaded")
 st.markdown("""
-- **Dipanshu Goyal**: <span style='color:#e0af68;'>None</span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/notes.git </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'>None</span>
 - **Krishna Mehta**: <span style='color:#e0af68;'>None</span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'>None</span>
