@@ -41,7 +41,7 @@ st.markdown("""
 - **Krishna Mehta**: <span style='color:#e0af68;'>None</span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'>None</span>
 - **Soumalya Gosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/STUDY </span>
-- **Hardik**: <span style='color:#e0af68;'>None</span>
+- **Hardik**: <span style='color:#e0af68;'> https://github.com/Meowwxo/AI_STUDY_MATERIAL_4.git </span>
 - **Digvijay**: <span style='color:#e0af68;'>None</span>
 """, unsafe_allow_html=True)
 
