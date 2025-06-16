@@ -29,7 +29,7 @@ st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> None </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> None </span>
-- **Soumalya Gosh**: <span style='color:#e0af68;'> None </span>
+- **Soumalya Gosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/iris_classification </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
