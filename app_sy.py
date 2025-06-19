@@ -31,7 +31,7 @@ st.markdown("""
 - **Ritesh Hooda**: <span style='color:#e0af68;'> None </span>
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/iris_classification </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
-- **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/HR-analysis-Dashboard.git </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
 - **Pummy**: <span style='color:#e0af68;'> None </span>
