@@ -32,7 +32,7 @@ st.markdown("""
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/iris_classification </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Second-Brain </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/HR-analysis-Dashboard.git </span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://github.com/SahibTaj/Crop-Yield-Prediction-using-Machine-Learning.git </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> https://github.com/Meowwxo/JET_ENGINE.git </span>
 - **Pummy**: <span style='color:#e0af68;'> None </span>
 - **Digvijay**: <span style='color:#e0af68;'> None </span>
