@@ -39,9 +39,9 @@ st.markdown("""
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Real-Time-Face-Detection-With-Pytorch-Facenet </span>
 """, unsafe_allow_html=True)
 
-st.markdown("### 📚 GitHub Study Material You've Uploaded")
+st.markdown("### 📚 Projects for entering Soul Society again")
 st.markdown("""
-- *Jayshri**: None 
+- **Jayasri**: <span style='color:#e0af68;'> None </span>
 """)
 
 
