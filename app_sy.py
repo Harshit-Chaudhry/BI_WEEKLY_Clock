@@ -28,9 +28,9 @@ st.title("Deadline Countdown Clock")
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Battery_Temp_Pred_MATLAB.git </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'> None </span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/payz.git </span>
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/iris_classification </span>
-- **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Second-Brain </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/HR-analysis-Dashboard.git </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
@@ -39,6 +39,10 @@ st.markdown("""
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Real-Time-Face-Detection-With-Pytorch-Facenet </span>
 """, unsafe_allow_html=True)
 
+st.markdown("### 📚 GitHub Study Material You've Uploaded")
+st.markdown("""
+- *Jayshri**: None 
+""")
 
 
 deadline_date = datetime.date(2025, 6, 22)
