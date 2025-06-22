@@ -42,6 +42,7 @@ st.markdown("""
 st.markdown("### 📚 Projects for entering Soul Society again")
 st.markdown("""
 - **Jayasri**: <span style='color:#e0af68;'> None </span>
+- **Kabir Chahuhan **: <span style='color:#e0af68;'> https://kckabir.github.io/drum-game/ </span>
 """)
 
 
