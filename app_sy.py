@@ -33,7 +33,7 @@ st.markdown("""
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Second-Brain </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/HR-analysis-Dashboard.git </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
-- **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
+- **Hardik Tyagi**: <span style='color:#e0af68;'> https://github.com/Meowwxo/JET_ENGINE.git </span>
 - **Pummy**: <span style='color:#e0af68;'> None </span>
 - **Digvijay**: <span style='color:#e0af68;'> None </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Real-Time-Face-Detection-With-Pytorch-Facenet </span>
