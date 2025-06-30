@@ -27,23 +27,24 @@ st.title("Deadline Countdown Clock")
 
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
-- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Battery_Temp_Pred_MATLAB.git </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/payz.git </span>
-- **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/iris_classification </span>
-- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Second-Brain </span>
-- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/HR-analysis-Dashboard.git </span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://github.com/SahibTaj/Crop-Yield-Prediction-using-Machine-Learning.git </span>
-- **Hardik Tyagi**: <span style='color:#e0af68;'> https://github.com/Meowwxo/JET_ENGINE.git </span>
-- **Pummy**: <span style='color:#e0af68;'> None </span>
-- **Digvijay**: <span style='color:#e0af68;'> None </span>
-- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Real-Time-Face-Detection-With-Pytorch-Facenet </span>
+- **Harshit Chaudhary**: <span style='color:#e0af68;'> None </span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'> NoneNone </span>
+- **Soumalya Ghosh**: <span style='color:#e0af68;'> None </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
+- **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'> None </span>
+- **Archit Yadav**: <span style='color:#e0af68;'> None </span>
 """, unsafe_allow_html=True)
 
+"""
 st.markdown("### 📚 Projects for entering Soul Society again")
 st.markdown("""
 - **Jayasri**: <span style='color:#e0af68;'> None </span>
 - **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/drum-game/ </span>
 """, unsafe_allow_html=True)
+"""
 
 
 deadline_date = datetime.date(2025, 6, 22)
