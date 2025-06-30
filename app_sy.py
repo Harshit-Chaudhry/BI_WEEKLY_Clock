@@ -38,13 +38,13 @@ st.markdown("""
 - **Archit Yadav**: <span style='color:#e0af68;'> None </span>
 """, unsafe_allow_html=True)
 
-"""
-st.markdown("### 📚 Projects for entering Soul Society again")
-st.markdown("""
-- **Jayasri**: <span style='color:#e0af68;'> None </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/drum-game/ </span>
-""", unsafe_allow_html=True)
-"""
+
+#st.markdown("### 📚 Projects for entering Soul Society again")
+#st.markdown("""
+#- **Jayasri**: <span style='color:#e0af68;'> None </span>
+#- **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/drum-game/ </span>
+#""", unsafe_allow_html=True)
+
 
 
 deadline_date = datetime.date(2025, 6, 22)
