@@ -34,7 +34,7 @@ st.markdown("""
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'> None </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Piano-JS/ </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> None </span>
 """, unsafe_allow_html=True)
 
