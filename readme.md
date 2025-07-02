@@ -29,7 +29,7 @@ This Streamlit app displays a real-time countdown to a selected deadline, along 
 
     ```bash
     git clone https://github.com/Harshit-Chaudhry/BI_WEEKLY_Clock.git
-    cd your-repo-name
+    cd BI_WEEKLY_Clock
     ```
 
 2. Create a virtual environment (optional but recommended):
