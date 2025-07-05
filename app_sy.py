@@ -35,7 +35,7 @@ st.markdown("""
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
 - **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Piano-JS/ </span>
-- **Archit Yadav**: <span style='color:#e0af68;'> None </span>
+- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Webstrike </span>
 """, unsafe_allow_html=True)
 
 
