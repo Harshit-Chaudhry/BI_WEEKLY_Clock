@@ -27,7 +27,7 @@ st.title("Deadline Countdown Clock")
 
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
-- **Harshit Chaudhary**: <span style='color:#e0af68;'> None </span>
+- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Defquant-AlphaSwing-Engine.git </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> NoneNone </span>
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> None </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
