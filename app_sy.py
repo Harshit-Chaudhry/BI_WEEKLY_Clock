@@ -33,7 +33,7 @@ st.markdown("""
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Chatty </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
-- **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
+- **Hardik Tyagi**: <span style='color:#e0af68;'> https://www.linkedin.com/posts/hardik-tyagi-8159b12b2_diabetes-prediction-using-machine-learning-activity-7347212247770828800-SZjv?utm_source=share&utm_medium=member_android&rcm=ACoAAEtBElEBE5VEWOf88GwUjDVfJMv8NTLkQm4 </span>
 - **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Piano-JS/ </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Webstrike </span>
 """, unsafe_allow_html=True)
