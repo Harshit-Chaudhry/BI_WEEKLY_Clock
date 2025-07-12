@@ -27,15 +27,15 @@ st.title("Deadline Countdown Clock")
 
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
-- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Defquant-AlphaSwing-Engine.git </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/payz.git </span>
-- **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/learningDataExtraction </span>
-- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/Chatty </span>
-- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/credit-card-fraud-detection.git </span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://www.linkedin.com/posts/sahib-taj-singh-123b37216_flutter-appdevelopment-machinelearning-activity-7347686202663145472-NC3C?utm_source=share&utm_medium=member_desktop&rcm=ACoAADahBusBPSI9yXrFLFvTeWyaGRdgEI2oV3o </span>
-- **Hardik Tyagi**: <span style='color:#e0af68;'> https://www.linkedin.com/posts/hardik-tyagi-8159b12b2_diabetes-prediction-using-machine-learning-activity-7347212247770828800-SZjv?utm_source=share&utm_medium=member_android&rcm=ACoAAEtBElEBE5VEWOf88GwUjDVfJMv8NTLkQm4 </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Piano-JS/ </span>
-- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Webstrike </span>
+- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://introverts-extroverts-predictor-harshit-chaudhary.streamlit.app/ </span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'> https://campussync-8fc20.web.app/ </span>
+- **Soumalya Ghosh**: <span style='color:#e0af68;'> None </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
+- **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'> None </span>
+- **Archit Yadav**: <span style='color:#e0af68;'> None </span>
 """, unsafe_allow_html=True)
 
 
@@ -47,7 +47,7 @@ st.markdown("""
 
 
 
-deadline_date = datetime.date(2025, 7, 6)
+deadline_date = datetime.date(2025, 7, 20)
 deadline_time = datetime.time(23 - 5, 59 - 30)
 deadline = datetime.datetime.combine(deadline_date, deadline_time)
 countdown_placeholder = st.empty()
