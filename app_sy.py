@@ -29,7 +29,7 @@ st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://introverts-extroverts-predictor-harshit-chaudhary.streamlit.app/ </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> https://campussync-8fc20.web.app/ </span>
-- **Soumalya Ghosh**: <span style='color:#e0af68;'> None </span>
+- **Soumalya Ghosh**: <span style='color:#e0af68;'> On Vacation </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
