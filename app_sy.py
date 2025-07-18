@@ -30,11 +30,11 @@ st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://introverts-extroverts-predictor-harshit-chaudhary.streamlit.app/ </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> https://campussync-8fc20.web.app/ </span>
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> On Vacation </span>
-- **Krishna Mehta**: <span style='color:#e0af68;'> None </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/CLI-Todo-List </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'> None </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'> https://voting-z4ft.onrender.com/ </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> None </span>
 """, unsafe_allow_html=True)
 
