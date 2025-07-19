@@ -32,7 +32,7 @@ st.markdown("""
 - **Soumalya Ghosh**: <span style='color:#e0af68;'> On Vacation </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/CLI-Todo-List </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'> None </span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'> None </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://github.com/SahibTaj/Credit-Card-Fraud-Detection </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'> None </span>
 - **Kabir Chauhan**: <span style='color:#e0af68;'> https://voting-z4ft.onrender.com/ </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> None </span>
