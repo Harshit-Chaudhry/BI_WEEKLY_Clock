@@ -27,15 +27,15 @@ st.title("Deadline Countdown Clock")
 
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
-- **Harshit Chaudhary**: <span style='color:#e0af68;'> https://introverts-extroverts-predictor-harshit-chaudhary.streamlit.app/ </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'> https://campussync-8fc20.web.app/ </span>
-- **Soumalya Ghosh**: <span style='color:#e0af68;'> On Vacation </span>
-- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/CLI-Todo-List </span>
-- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://www.linkedin.com/posts/dipanshu-goyal-9894bb273_im-happy-to-share-that-ive-obtained-a-new-activity-7350097104947621888-y7VN?utm_source=share&utm_medium=member_android&rcm=ACoAAELQ6rkBhsyDI4rqJadx_GLpgsMskkgJN8o </span>
-- **Sahib Taj Singh**: <span style='color:#e0af68;'> https://github.com/SahibTaj/Credit-Card-Fraud-Detection </span>
-- **Hardik Tyagi**: <span style='color:#e0af68;'> https://www.linkedin.com/posts/hardik-tyagi-8159b12b2_this-project-focuses-on-predicting-the-price-activity-7349848731338321920-Lub-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtBElEBE5VEWOf88GwUjDVfJMv8NTLkQm4  </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'> https://voting-z4ft.onrender.com/ </span>
-- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/Flan-T5-rlhf-align.git </span>
+- **Harshit Chaudhary**: <span style='color:#e0af68;'>  </span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'>  </span>
+- **Soumalya Ghosh**: <span style='color:#e0af68;'>  </span>
+- **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/food-delivery-website </span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'>  </span>
+- **Sahib Taj Singh**: <span style='color:#e0af68;'>  </span>
+- **Hardik Tyagi**: <span style='color:#e0af68;'>   </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'>  </span>
+- **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/fine-tuning-gpt2-for-latex-generation.git </span>
 """, unsafe_allow_html=True)
 
 
