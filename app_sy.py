@@ -28,7 +28,7 @@ st.title("Deadline Countdown Clock")
 st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Hacktech_Churn_Pred_Intern.git </span>
-- **Ritesh Hooda**: <span style='color:#e0af68;'>  </span>
+- **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/basic-chat-app </span>
 - **Soumalya Ghosh**: <span style='color:#e0af68;'>  </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/food-delivery-website </span>
 - **Dipanshu Goyal**: <span style='color:#e0af68;'>  </span>
