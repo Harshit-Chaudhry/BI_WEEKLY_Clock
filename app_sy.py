@@ -29,9 +29,9 @@ st.markdown("### 📂 GitHub Coding Projects")
 st.markdown("""
 - **Harshit Chaudhary**: <span style='color:#e0af68;'> https://github.com/Harshit-Chaudhry/Hacktech_Churn_Pred_Intern.git </span>
 - **Ritesh Hooda**: <span style='color:#e0af68;'> https://github.com/Ritesh-251/basic-chat-app </span>
-- **Soumalya Ghosh**: <span style='color:#e0af68;'>  </span>
+- **Soumalya Ghosh**: <span style='color:#e0af68;'> https://github.com/Froskersss/pc-review-summariser </span>
 - **Krishna Mehta**: <span style='color:#e0af68;'> https://github.com/Krishna-Mehta-135/food-delivery-website </span>
-- **Dipanshu Goyal**: <span style='color:#e0af68;'>  </span>
+- **Dipanshu Goyal**: <span style='color:#e0af68;'> https://github.com/dipanshu1907/Numpy-and-panda.git </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'>  </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'>   </span>
 - **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Dice1/ </span>
