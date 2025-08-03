@@ -34,7 +34,7 @@ st.markdown("""
 - **Dipanshu Goyal**: <span style='color:#e0af68;'>  </span>
 - **Sahib Taj Singh**: <span style='color:#e0af68;'>  </span>
 - **Hardik Tyagi**: <span style='color:#e0af68;'>   </span>
-- **Kabir Chauhan**: <span style='color:#e0af68;'>  </span>
+- **Kabir Chauhan**: <span style='color:#e0af68;'> https://kckabir.github.io/Dice1/ </span>
 - **Archit Yadav**: <span style='color:#e0af68;'> https://github.com/Daddy-Myth/fine-tuning-gpt2-for-latex-generation.git </span>
 """, unsafe_allow_html=True)
 
